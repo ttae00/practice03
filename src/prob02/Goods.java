@@ -1,5 +1,15 @@
 package prob02;
 
-public class Goods {
+//import java.util.Scanner;
 
+public class Goods {
+	
+	
+	//Scanner sc= new Scanner(System.in);
+	
+	 String name;
+	 int price;
+	 int count;
+	
+	
 }
